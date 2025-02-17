@@ -1,0 +1,229 @@
+{
+  "data": [
+    {
+      "id": "R_kgDOJWL0-g",
+      "name": "WheelDeal",
+      "createdAt": "18-11-2023",
+      "url": "https://github.com/ShayanHaider20/WheelDeal",
+      "description": "A Car Management System that simplifies vehicle data and service record management.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML5",
+          "iconifyClass": "devicon:html5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "skill-icons:css"
+        },
+        {
+          "name": "Javascript",
+          "iconifyClass": "logos:javascript"
+        }
+        ,
+        {
+          "name": "PHP",
+          "iconifyClass": "devicon:php"
+        },
+        {
+          "name": "MySQL",
+          "iconifyClass": "logos:mysql"
+        },
+        {
+          "name": "Apache",
+          "iconifyClass": "devicon:apache"
+        }
+
+
+      ]
+    },
+    {
+      "id": "R_kgDOG_vYHA",
+      "name": "Scheduler-AI",
+      "createdAt": "27-04-2024",
+      "url": "https://github.com/ShayanHaider20/Scheduler-AI",
+      "description": "An intelligent timetable generator that generates University timetable using Genetic Algorithm.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML5",
+          "iconifyClass": "devicon:html5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "skill-icons:css"
+        },
+        {
+          "name": "Javascript",
+          "iconifyClass": "logos:javascript"
+        },
+        {
+          "name": "Python",
+          "iconifyClass": "logos:python"
+        },
+        {
+          "name": "Django",
+          "iconifyClass": "logos:django-icon"
+        },
+        {
+          "name": "Sqlite3",
+          "iconifyClass": "logos:sqlite"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Sentiment-Analysis-Using-Scholarly-Reviews",
+      "createdAt": "24-04-2024",
+      "url": "https://github.com/ShayanHaider20/Sentiment-Analysis-Using-Scholarly-Reviews",
+      "description": "Involves predicting the sentiment of peer reviews into three classes: Accept, Reject, and Borderline",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos:python"
+        },
+        {
+          "name": "Tensorflow",
+          "iconifyClass": "logos:tensorflow"
+        },
+        {
+          "name": "Keras",
+          "iconifyClass": "devicon:keras"
+        },
+        {
+          "name": "Pandas",
+          "iconifyClass": "devicon:pandas"
+        },
+        {
+          "name": "Numpy",
+          "iconifyClass": "devicon:numpy"
+        },
+        {
+          "name": "Scikit-Learn",
+          "iconifyClass": "devicon:scikitlearn"
+        },
+        {
+          "name": "Matplotlib",
+          "iconifyClass": "devicon:matplotlib"
+        }
+
+      ]
+    },
+    {
+      "id": "R_kgDOG0_8uQ",
+      "name": "Containerizing and Deploying a Full-Stack To-Do Application",
+      "createdAt": "04-11-2024",
+      "url": "https://github.com/ShayanHaider20/Containerizing-and-Deploying-a-Full-Stack-Web-Application",
+      "description": "Full-stack To-Do application, containerized with Docker for easy deployment. It integrates CI/CD pipelines for automated deployment and scalability.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "React.js",
+          "iconifyClass": "skill-icons:react-dark"
+        },
+        {
+          "name": "Node.js",
+          "iconifyClass": "devicon:nodejs-wordmark"
+        },
+        {
+          "name": "Express.js",
+          "iconifyClass": "devicon:express"
+        },
+        {
+          "name": "MongoDB",
+          "iconifyClass": "devicon:mongodb-wordmark"
+        },
+        {
+          "name": "Docker",
+          "iconifyClass": "vscode-icons:file-type-docker2"
+        },
+        {
+          "name": "Github Actions",
+          "iconifyClass": "skill-icons:githubactions-light"
+        },
+        {
+          "name": "Azure",
+          "iconifyClass": "logos:microsoft-azure"
+        }
+       
+
+        
+      ]
+    },
+    {
+      "id": "R_kgDOGcPKSQ",
+      "name": "WaiterBot: Chatbot for Food Order Management",
+      "createdAt": "04-02-2025",
+      "url": "https://github.com/ShayanHaider20/WaiterBot--Chatbot-for-Food-Order-Management",
+      "description": "⚙️ Solving sudoku using Deep Reinforcement learning in combination with powerful symbolic representations.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "TypeScript",
+          "iconifyClass": "devicon:typescript"
+        },
+
+        {
+          "name": "Gemini",
+          "iconifyClass": "logos:google-gemini"
+        },
+        {
+          "name": "Vercel",
+          "iconifyClass": "devicon:vercel"
+        }
+
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
+      "name": "translationApp",
+      "createdAt": "08-01-2025",
+      "url": "https://github.com/ShayanHaider20/translationApp",
+      "description": "Flask-based web application that enables users to record audio, transcribe it into text, translate the transcription into a selected language, and play back the translated text as speech",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          
+          "name": "Python",
+          "iconifyClass": "logos:python"
+        },
+        {
+          
+          "name": "Flask",
+          "iconifyClass": "logos:flask"
+        }
+        
+      ]
+    }
+  ]
+}
