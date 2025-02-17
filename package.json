@@ -1,12 +1,12 @@
 {
   "private": true,
-  "name": "masterPortfolio",
+  "name": "masterportfolio",
   "version": "0.1.0",
-  "homepage": ".",
+  "homepage": "https://ShayanHaider20.github.io/Portfolio",
   "scripts": {
     "build": "react-scripts --openssl-legacy-provider build",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b gh-pages -d build",
+    "deploy": "gh-pages -d build",
     "eject": "react-scripts eject",
     "start": "react-scripts --openssl-legacy-provider start",
     "test": "react-scripts test"
