@@ -3,7 +3,10 @@ name: Deploy React App to GitHub Pages
 on:
   push:
     branches:
-      - main  # Change if your main branch is different
+      - main  # Runs when you push to main
+
+permissions:
+  contents: write
 
 jobs:
   deploy:
@@ -22,10 +25,17 @@ jobs:
         run: npm install
 
       - name: Build project
-        run: npm run build  # Make sure this is your correct build command
+        run: npm run build  # Make sure this is the correct build command
 
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./build  # Ensure this is your correct build output folder
+      - name: Move build files
+        run: |
+          mkdir -p public
+          mv build/* public/
+
+      - name: Push to main branch
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add -f public
+          git commit -m "Deploy React app to GitHub Pages" || echo "No changes to commit"
+          git push origin main
