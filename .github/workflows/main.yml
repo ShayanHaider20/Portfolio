@@ -30,7 +30,7 @@ jobs:
         run: npm run build  # Ensure this is the correct build command
 
       - name: Deploy to GitHub Pages
-        uses: JamesIves/github-pages-deploy-action@v4
+        uses: actions/deploy-pages@v3
         with:
           branch: gh-pages
           folder: build  # Ensure this is the correct output folder
