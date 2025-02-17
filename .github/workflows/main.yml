@@ -3,7 +3,7 @@ name: Deploy React App to GitHub Pages
 on:
   push:
     branches:
-      - main  # Change if your branch is different
+      - main  # Change this if your default branch is different
 
 permissions:
   contents: read
@@ -29,8 +29,20 @@ jobs:
       - name: Build project
         run: npm run build  # Ensure this is the correct build command
 
-      - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v3
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v2
         with:
-          branch: gh-pages
-          folder: build  # Ensure this is the correct output folder
+          name: github-pages  # Ensure this matches the deploy step
+          path: build         # This should be the correct build output folder
+
+  deploy_pages:
+    needs: deploy
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v3
