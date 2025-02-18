@@ -3,39 +3,39 @@
   "name": "masterPortfolio",
   "icons": [
   {
-   "src": "\/icons\/shayan.ico",
+   "src": "/icons/shayan.ico",
    "sizes": "36x36",
-   "type": "image\/ico",
+   "type": "image/ico",
    "density": "0.75"
   },
   {
-   "src": "\/icons\/shayan.ico",
+   "src": "/icons/shayan.ico",
    "sizes": "48x48",
-   "type": "image\/ico",
+   "type": "image/ico",
    "density": "1.0"
   },
   {
-   "src": "\/icons\/shayan.ico",
+   "src": "/icons/shayan.ico",
    "sizes": "72x72",
-   "type": "image\/ico",
+   "type": "image/ico",
    "density": "1.5"
   },
   {
-   "src": "\/icons\/shayan.ico",
+   "src": "/icons/shayan.ico",
    "sizes": "96x96",
-   "type": "image\/ico",
+   "type": "image/ico",
    "density": "2.0"
   },
   {
-   "src": "\/icons\/shayan.ico",
+   "src": "/icons/shayan.ico",
    "sizes": "144x144",
-   "type": "image\/ico",
+   "type": "image/ico",
    "density": "3.0"
   },
   {
-   "src": "\/icons\/shayan.ico",
+   "src": "/icons/shayan.ico",
    "sizes": "192x192",
-   "type": "image\/ico",
+   "type": "image/ico",
    "density": "4.0"
   }
  ],
