@@ -54,7 +54,7 @@ const socialMediaLinks = [
   },
   {
     name: "Gmail",
-    link: "mailto:AHAHAHAHAHAAH@gmail.com?subject=Let's%20Connect!",
+    link: "mailto:haidershayan732@gmail.com?subject=Let's%20Connect!",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
