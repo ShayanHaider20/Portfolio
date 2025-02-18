@@ -2,7 +2,7 @@
   "private": true,
   "name": "masterportfolio",
   "version": "0.1.0",
-  "homepage": "https://ShayanHaider20.github.io/Portfolio",
+  "homepage": "/",
   "scripts": {
     "build": "react-scripts --openssl-legacy-provider build",
     "predeploy": "npm run build",
