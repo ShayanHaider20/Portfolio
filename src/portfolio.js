@@ -66,7 +66,7 @@ const skills = {
       softwareSkills: [
         {
           skillName: "Tensorflow",
-          fontAwesomeClassname: "logos-tensorflow",
+          fontAwesomeClassname: "logos:tensorflow",
           style: {
             backgroundColor: "transparent",
           },

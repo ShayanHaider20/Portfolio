@@ -20,10 +20,10 @@ class Projects extends Component {
           <Fade bottom duration={2000} distance="40px">
             <div className="projects-heading-div">
               <div className="projects-heading-img-div">
-                {/* <img
-											src={require(`../../assets/images/${projectsHeader["avatar_image_path"]}`)}
-											alt=""
-										/> */}
+                <img
+                  src={require(`../../assets/images/${projectsHeader["avatar_image_path"]}`)}
+                  alt=""
+                />
                 <ProjectsImg theme={theme} />
               </div>
               <div className="projects-heading-text-div">

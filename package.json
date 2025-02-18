@@ -2,16 +2,17 @@
   "private": true,
   "name": "masterportfolio",
   "version": "0.1.0",
-  "homepage": "/",
+  "homepage": "https://ShayanHaider20.github.io/portfolio",
   "scripts": {
     "build": "react-scripts --openssl-legacy-provider build",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "main -d build",
     "eject": "react-scripts eject",
     "start": "react-scripts --openssl-legacy-provider start",
     "test": "react-scripts test"
   },
   "dependencies": {
+    "@iconify/react": "^5.2.0",
     "apollo-boost": "^0.4.4",
     "baseui": "^9.65.3",
     "chart.js": "^2.9.3",
