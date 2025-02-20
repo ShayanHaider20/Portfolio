@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "I'm a tech enthusiast and problem solver who loves turning ideas into reality through code. With a strong foundation in AI, software development, and automation, I enjoy building smart solutions that make life easier 🚀",
   resumeLink:
-    "https://drive.google.com/file/d/125xQsRQSTINdm3dUdb_snx0YaXqj6eO3/view?usp=sharing",
+    "https://drive.google.com/file/d/13_Oe0esGClgVU3Ejl9llpFeI4wv4zjdI/view?usp=sharing",
   portfolio_repository: "https://github.com/ShayanHaider20",
   githubProfile: "https://github.com/ShayanHaider20",
 };
