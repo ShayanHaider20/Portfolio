@@ -19,8 +19,7 @@
         {
           "name": "Javascript",
           "iconifyClass": "logos:javascript"
-        }
-        ,
+        },
         {
           "name": "PHP",
           "iconifyClass": "devicon:php"
@@ -33,8 +32,6 @@
           "name": "Apache",
           "iconifyClass": "devicon:apache"
         }
-
-
       ]
     },
     {
@@ -107,7 +104,6 @@
           "name": "Matplotlib",
           "iconifyClass": "devicon:matplotlib"
         }
-
       ]
     },
     {
@@ -154,9 +150,6 @@
           "name": "Azure",
           "iconifyClass": "logos:microsoft-azure"
         }
-       
-
-        
       ]
     },
     {
@@ -164,7 +157,7 @@
       "name": "WaiterBot: Chatbot for Food Order Management",
       "createdAt": "04-02-2025",
       "url": "https://github.com/ShayanHaider20/WaiterBot--Chatbot-for-Food-Order-Management",
-      "description": "⚙️ Solving sudoku using Deep Reinforcement learning in combination with powerful symbolic representations.",
+      "description": "⚙️ An intelligent chatbot designed to streamline the food ordering process in restaurants.",
       "isFork": false,
       "languages": [
         {
@@ -188,7 +181,6 @@
           "name": "Vercel",
           "iconifyClass": "devicon:vercel"
         }
-
       ]
     },
     {
@@ -208,21 +200,17 @@
           "iconifyClass": "logos-css-3"
         },
         {
-          
           "name": "JavaScript",
           "iconifyClass": "logos-javascript"
         },
         {
-          
           "name": "Python",
           "iconifyClass": "logos:python"
         },
         {
-          
           "name": "Flask",
           "iconifyClass": "logos:flask"
         }
-        
       ]
     }
   ]
